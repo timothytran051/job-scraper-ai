@@ -1,0 +1,7 @@
+fastapi(backend)
+selenium(js scraper)
+beautifulsoup(html scraper)
+pandas(structured data)
+postgres(db)
+chromedriver(selenium req)
+AWS: ECS, lambda, api gateway, rds, s3
